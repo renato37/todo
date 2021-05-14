@@ -1,0 +1,47 @@
+.event {
+    border-radius: 3vw;
+    border: 0.5vw solid black;
+    padding: 2vw;
+    margin: 1vw;
+    background-color: whitesmoke;
+}
+
+.column4 {
+    min-width: 1vw;
+    max-width: 1vw;
+    align-items: center;
+    justify-content: center;
+}
+
+.long-row{
+    margin: 2%;
+    border-color: black;
+    background-color: whitesmoke;
+    width: 50vw;
+    justify-content: space-between;
+}
+
+.searchbox{
+    width: 40vw;
+}
+
+.buttons-blue{
+    border-radius: 12px;
+    background-color: blue;
+    size: 1.5rem;
+    color:white;
+}
+
+.buttons-red{
+    border-radius: 12px;
+    background-color: red;
+    size: 1.5rem;
+    color:white;
+}
+
+.buttons-green{
+    border-radius: 12px;
+    background-color: green;
+    size: 1.5rem;
+    color:white;
+}
